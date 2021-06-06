@@ -31,7 +31,7 @@ describe('Signup tests', function() {
 
 })
 
-/*
+
 	it('Shopping, happy path', function() {
 		const indexPage = new IndexPage();
 		const singleProductPage = new SingleProductPage();
@@ -121,7 +121,7 @@ describe('Signup tests', function() {
 		.and('include.text', userData[3])
 		.and('include.text', this.data.totalAmount);
 	})
-	*/
+
 	
 	it('Purchasing without entering credit card details', function() {
 		const indexPage = new IndexPage();
