@@ -1,0 +1,24 @@
+{
+  "name": "demoblaze",
+  "version": "1.0.0",
+  "description": "Cypress testing of demoblaze.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run",
+    "headTest": "npm run test -- --headed",
+    "chromeTest": "npm run test -- --browser chrome",
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "test",
+    "demoblaze"
+  ],
+  "author": "Mladen Tomić",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.4.0",
+    "mocha": "^8.4.0",
+    "mochawesome": "^6.2.2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "validUsername": "Tester",
+  "validPassword": "test122345",
+  "productName": [
+    "Sony xperia z5",
+    "2017 Dell 15.6 Inch",
+    "HTC One M9",
+    "ASUS Full HD",
+    "Samsung galaxy s6",
+    "Samsung galaxy s7"
+  ],
+  "productAssertation": [
+    "Sony Xperia Z5",
+    "7th Gen Intel Core i7-7500U mobile processor 2.70 GHz",
+    "HTC One M9",
+    "ASUS VS247H-P 23.6- Inch Full HD",
+    "Samsung Galaxy S6",
+    "Samsung Galaxy S7"
+  ],
+  "userData": [
+    "John Smith",
+    "Canada",
+    "Vancouver",
+    "12321-312321-321321-32113",
+    "May",
+    "2022"
+  ],
+  "randomUsername": 1623001270258.5156,
+  "totalAmount": "1160",
+  "validName": 1622999507251.5312
+}
